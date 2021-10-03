@@ -1,0 +1,1 @@
+console.log(">> This is the main JS... Let's get started!");
